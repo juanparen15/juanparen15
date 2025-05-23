@@ -87,7 +87,7 @@
 ## 📫 ¿Cómo contactarme?
 
 - 📧 Email: jprendon9@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/juanpablorendon](https://linkedin.com/in/juanpablorendon)
+- 💼 LinkedIn: [linkedin.com/in/juanpablorendon](https://linkedin.com/in/juanparen15)
 
 ---
 
