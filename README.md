@@ -1,5 +1,4 @@
-
-[![A-stylized-plastic-action-figure-of-the-character-in-the-upl-1925940273979232258.png](https://i.postimg.cc/2648YdCh/A-stylized-plastic-action-figure-of-the-character-in-the-upl-1925940273979232258.png)](https://postimg.cc/YGCwfWGC)
+![Logo](https://i.postimg.cc/0NS9GGMF/A-stylized-plastic-action-figure-of-the-character-in-the-upl-1925940273979232258.png)
 ---
 
 # 👋 Hola, soy Juan Pablo Rendón
