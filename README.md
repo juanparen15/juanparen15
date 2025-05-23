@@ -105,6 +105,6 @@ Este repositorio está licenciado bajo la licencia MIT. ¡Úsalo, aprende y crea
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juanparen15&theme=github-light&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://github.com/juanparen15)
 
-![juanparen15's Estadísticas](https://github-readme-stats.vercel.app/api?username=juanparen15&theme=default&&locale=es&show_icons=true&hide_border=true&count_private=false)
+![juanparen15's Estadísticas](https://github-readme-stats.vercel.app/api?username=juanparen15&theme=default&&locale=es&show_icons=true&hide_border=false&count_private=true)
 
 [![Encabezado](https://github-readme-stats.vercel.app/api/top-langs/?username=juanparen15&&locale=es)](https://github.com/juanparen15)
